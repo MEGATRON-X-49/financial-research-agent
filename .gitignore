@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+
+agent-ui/node_modules/
+agent-ui/.next/
+
+.env
+.env.*
+!.env.example

@@ -1,0 +1,6 @@
+agno
+ollama
+python-dotenv
+yfinance
+packaging
+openai
