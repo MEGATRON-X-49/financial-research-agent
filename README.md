@@ -41,7 +41,7 @@ An AI-powered financial research assistant built using Python, Agno, Ollama and 
    AI-generated response
 ```
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 | Technology | Purpose |
 |---|---|
@@ -54,20 +54,20 @@ An AI-powered financial research assistant built using Python, Agno, Ollama and 
 | Yahoo Finance | Financial data |
 | yfinance | Financial data integration |
 
-## ⚙️ Prerequisites
+##  Prerequisites
 
 - Python 3.12
 - Node.js and npm
 - Ollama
 - Git
 
-## 💻 Installation and Setup
+##  Installation and Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd YOUR_REPOSITORY_NAME
+git clone git clone https://github.com/MEGATRON-X-49/financial-research-agent.git
+cd financial-research-agent
 ```
 
 ### 2. Set up Python environment
@@ -120,7 +120,7 @@ Open the application:
 
 http://localhost:3000
 
-## 📊 Example Queries
+##  Example Queries
 
 - What is the current stock price of Tesla?
 - Compare NVIDIA and AMD.
